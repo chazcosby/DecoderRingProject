@@ -23,3 +23,5 @@ The Substitution Cipher requires a standard alphabet and a substitution alphabet
 ```Message: hello world```
 ```Alphabet Key: xoyqmcgrukswaflnthdjpzibev```
 ```Output: rmwwl```
+
+![127 0 0 1_8080_](https://user-images.githubusercontent.com/93302320/166628293-83de72cd-edfa-4277-8214-616e4d5cee32.png)
